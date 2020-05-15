@@ -1,0 +1,23 @@
+.poster{
+    width: auto;
+    height: 300px;
+  }
+  
+  .col-md-6{
+    padding: 10px;
+    width:auto;
+    border: 1px solid black;
+    
+    
+  }
+  .col-md-12{
+    border: 1px solid black;
+    border-bottom:none;
+  }
+  
+  .Search_bar {
+    width: 100%;
+    margin:0px;
+    border:none;
+    padding: 10px;
+  }
